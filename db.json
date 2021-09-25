@@ -1,14 +1,41 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"share": [
+{
+"name": "Popup",
+"popup": [
+{
+"title": "Join Our Discord Server",
+"content": "If You are Enjoying the Content and Our Apps Join Our Discord Server for Latest Updates",
+"buttontitle": "Join Discord",
+"link": "https://discord.gg/ATjRyPf8Tn",
+"requestcode": "7"
+}
+]
+},
+{
+"name": "Buttons",
+"buttons": [
+{
+"link": "https://discord.gg/ATjRyPf8Tn",
+"title": "Join Official StreamIndia Discord"
+},
+{
+"link": "https://telegram.me/OfficialStreamIndia",
+"title": "Join Official StreamIndia Telegram"
+},
+{
+"link": "https://telegram.me/wamods",
+"title": "Join WhatsApp Mods TG Channel"
+},
+{
+"link": "https://telegram.me/joinchat/AAAAAFlLAeHug8Sf6ECpuA",
+"title": "Join Legendary Tricks Telegram"
+},
+{
+"link": "https://telegram.me/joinchat/SXf49h1Yu2apaZs0",
+"title": "Join iNextMovies Telegram Channel"
+}
+]
+}
+]
 }
